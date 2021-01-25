@@ -1,2 +1,2 @@
 # Sennt03.github.io
-Pagina hoateada en github
+Diseño de página basico
